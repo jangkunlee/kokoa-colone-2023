@@ -1,6 +1,12 @@
 @import "reset.css";
-@import "status-bar.css";
 @import "variables.css";
+
+/*Compinents*/
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+
+/*Screen*/
+@import "screens/login.css";
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
